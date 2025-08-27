@@ -1,0 +1,8 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(120deg, #22223b 0%, #4a4e69 100%);
+  background-image: url('data:image/svg+xml;utf8,<svg width="240" height="120" viewBox="0 0 240 120" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="120" fill="none"/><g><rect x="40" y="60" width="80" height="25" rx="10" fill="%23f2e9e4"/><rect x="60" y="50" width="40" height="20" rx="8" fill="%239a8c98"/><circle cx="60" cy="85" r="10" fill="%234a4e69"/><circle cx="120" cy="85" r="10" fill="%234a4e69"/><rect x="150" y="60" width="60" height="25" rx="10" fill="%23f2e9e4"/><rect x="170" y="50" width="30" height="20" rx="8" fill="%239a8c98"/><circle cx="170" cy="85" r="10" fill="%234a4e69"/><circle cx="210" cy="85" r="10" fill="%234a4e69"/></g></svg>');
+  background-size: 480px 240px;
+  background-repeat: repeat;
+}
