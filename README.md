@@ -6,3 +6,5 @@ Join our community https://steamcommunity.com/chat/invite/IegHA1XP
 we have alot of members and stuff feel free to join the community and the brickrigs server:)
 
 <img width="165" height="165" alt="image" src="https://github.com/user-attachments/assets/98a9bb67-7c8a-4ac3-8b8f-ad76c44b811d" /> this our 2nd admin
+<img width="166" height="163" alt="image" src="https://github.com/user-attachments/assets/64f6485b-5930-4e45-ba4a-422026da973d" /> this is staff 
+there is more but im to lazy for that
