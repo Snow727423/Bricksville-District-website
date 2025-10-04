@@ -16,3 +16,7 @@ Admin Request Here This Will downlod but remove it  after
 Ideas  (https://github.com/user-attachments/files/22694711/ideas-tab_Version9.1.html)
 
 (https://github.com/user-attachments/files/22699360/staff_apply_quiz_version_5_fixed.2.html)
+<!-- Navigation Bar Links -->
+<a href="brickville-district-admin-application_Version2.html" ...>Staff Application</a>
+<a href="unban-request_Version3.html" ...>Unban Request</a>
+<a href="ideas-tab_Version9.1.html" ...>Community Ideas</a>
