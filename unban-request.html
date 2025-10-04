@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Unban Request Form</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7f7f7; }
+    .container { max-width: 500px; margin: 40px auto; padding: 20px; background: #fff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.09);}
+    h2 { text-align: center; }
+    label { display: block; margin-top: 15px; font-weight: bold; }
+    input, textarea { width: 100%; padding: 8px; margin-top: 6px; border-radius: 4px; border: 1px solid #ccc; }
+    textarea { resize: vertical; }
+    button { margin-top: 20px; padding: 12px 24px; background: #4CAF50; color: #fff; border: none; border-radius: 4px; cursor: pointer; width: 100%; }
+    button:hover { background: #45a049; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Unban Request</h2>
+    <form action="YOUR_FORM_HANDLER_URL" method="POST">
+      <label for="username">Username</label>
+      <input type="text" id="username" name="username" required>
+
+      <label for="reason">Reason for Ban</label>
+      <input type="text" id="reason" name="reason" required>
+
+      <label for="banned_when_where">When/Where Were You Banned?</label>
+      <input type="text" id="banned_when_where" name="banned_when_where" placeholder="e.g., 2025-09-15 on Brick Rigs Discord" required>
+
+      <label for="appeal">Appeal Message</label>
+      <textarea id="appeal" name="appeal" rows="5" placeholder="Explain why you should be unbanned..." required></textarea>
+
+      <button type="submit">Submit Unban Request</button>
+    </form>
+  </div>
+</body>
+</html>
