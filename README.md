@@ -13,3 +13,4 @@ If you wanna unban request here and text in the gc then send a  pic of the reque
 (https://github.com/user-attachments/files/22694305/unban-request_Version3.html)
 Admin Request Here This Will downlod but remove it  after
 (https://github.com/user-attachments/files/22694398/brickville-district-admin-application_Version2.html)
+Ideas   (https://github.com/user-attachments/files/22694656/ideas-tab_Version6.html)
